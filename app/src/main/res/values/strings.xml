@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDiary</string>
+    <string name="tab_text_1">New Entry</string>
+    <string name="tab_text_2">Records</string>
+    <string name="recent_text">Recent Entries</string>
+    <string name="search_text">Search</string>
+    <string name="btn_record">"Record "</string>
+    <string name="title_hint">Title</string>
+    <string name="new_entry">What\'s on your mind today?</string>
+</resources>
